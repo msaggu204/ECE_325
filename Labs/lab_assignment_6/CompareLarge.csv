@@ -1,0 +1,6 @@
+# of concatenation operations,Approach 1 (String),Approach 2 (StringBuilder)
+10,0,0
+100,0,0
+1000,1,0
+10000,59,0
+100000,1889,2
